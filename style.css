@@ -28,6 +28,7 @@ letter-spacing: 10px;font-family: fantasy;}
 .customers td, .customers th
 {
     font-size:1em;
+    text-align:center;
     border:1px solid #98bf21;
     padding:3px 7px 2px 7px;
 }
@@ -35,7 +36,7 @@ letter-spacing: 10px;font-family: fantasy;}
 .customers th
 {
     font-size:1.1em;
-    text-align:left;
+    text-align:center;
     padding-top:5px;
     padding-bottom:4px;
     background-color:#A7C942;
